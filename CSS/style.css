@@ -6,3 +6,18 @@ p, p ul li{
     font-size: 12;
     font-family: 'Times New Roman', Times, serif;
 }
+.body{
+    display: grid;
+    grid-template-rows: auto;
+}
+.respuestas{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.rtas{
+    border-radius: 2em;
+    border-color: rgb(167, 84, 244);
+}
+.rtas:hover{
+
+}
