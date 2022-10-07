@@ -1,4 +1,6 @@
-
+*{
+    background-color: rgb(226, 226, 226);
+}
 h1, h2{
     font-size: 20;
 }
@@ -19,5 +21,6 @@ p, p ul li{
     border-color: rgb(167, 84, 244);
 }
 .rtas:hover{
-
+    background-color: rgba(137, 43, 226, 0.347);
+    border-color: rgb(211, 172, 248);
 }
