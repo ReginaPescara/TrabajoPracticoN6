@@ -14,12 +14,20 @@ p, p ul li{
 }
 .respuestas{
     display: grid;
-    grid-template-columns: 1fr 1fr;
-}
-.rtas{
+    grid-template-columns: repeat (2, 1fr) ;
+    gap: 20px;
     border-radius: 2em;
+}
+
+.rtas li{
+    display: grid;
+    grid-template-columns: repeat (2, 1fr) ;
+    gap: 20px;
+    border-radius: 2em;
+    background-color: rgb(229, 206, 250);
     border-color: rgb(167, 84, 244);
 }
+
 .rtas:hover{
     background-color: rgba(137, 43, 226, 0.347);
     border-color: rgb(211, 172, 248);
