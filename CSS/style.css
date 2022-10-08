@@ -15,6 +15,11 @@ p, p ul li{
     display: grid;
     grid-template-rows: auto;
 }
+.subt{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
 .consignas{
     background-color: rgb(255, 255, 91);
     border-radius: 1.5em;
