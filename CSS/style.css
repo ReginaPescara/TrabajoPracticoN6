@@ -18,6 +18,9 @@ p, p ul li{
 .consignas{
     background-color: rgb(255, 255, 91);
     border-radius: 1.5em;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
 }
 .consignas:hover{
     color: black;
@@ -26,8 +29,12 @@ p, p ul li{
 }
 .respuestas{
     background-color: rgba(214, 185, 240, 0.492);
+    display: flex;
+    justify-content: center;
+    justify-items: center;
 }
 .rtas{
+    width: 900px;
     display: flex;
     justify-content: center;
     justify-items: center;
