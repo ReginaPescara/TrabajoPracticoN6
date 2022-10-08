@@ -33,7 +33,6 @@ p, p ul li{
     border-color: white;
 }
 .respuestas{
-    background-color: rgba(214, 185, 240, 0.492);
     display: flex;
     justify-content: center;
     justify-items: center;
