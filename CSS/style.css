@@ -18,6 +18,11 @@ p, p ul li{
     justify-content: center;
     justify-items: center;
 }
+.contconsignas{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
 .consignas{
     background-color: rgb(255, 255, 91);
     width: 900px;
