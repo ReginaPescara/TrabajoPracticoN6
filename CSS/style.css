@@ -16,11 +16,18 @@ p, p ul li{
 }
 .consignas{
     background-color: rgb(255, 255, 91);
+    border-radius: 1.5em;
+}
+.consignas:hover{
+    color: black;
+    background-color: rgba(255, 255, 91, 0.677);
+    border-color: white;
 }
 
 .rtas{
+    width: 700px;
     display: grid;
-    grid-template-columns: 1fr 1fr ;
+    grid-template-columns: 1fr 1fr;
     gap: 20px;
     border-radius: 2em;
     background-color: rgb(195, 134, 252);
