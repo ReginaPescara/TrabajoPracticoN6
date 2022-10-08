@@ -4,6 +4,7 @@
 h1, h2{
     font-size: 20;
     text-align: center;
+    text-shadow: rgba(255, 255, 0, 0.36) 5px 2px 4px;
 }
 p, p ul li{
     font-size: 12;
@@ -24,12 +25,12 @@ p, p ul li{
     justify-items: center;
 }
 .consignas{
-    background-color: rgb(255, 255, 91);
     width: 900px;
-    border-radius: 1.5em;
     display: flex;
     justify-content: center;
     justify-items: center;
+    border-radius: 1.5em;
+    background-color: rgb(255, 255, 91);
 }
 .consignas:hover{
     color: black;
