@@ -24,9 +24,10 @@ p, p ul li{
     background-color: rgba(255, 255, 91, 0.677);
     border-color: white;
 }
-
+.respuestas{
+    background-color: rgba(214, 185, 240, 0.492);
+}
 .rtas{
-    
     display: flex;
     justify-content: center;
     justify-items: center;
