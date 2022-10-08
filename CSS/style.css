@@ -29,7 +29,7 @@ p, p ul li{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
-    border-radius: 2em;
+    border-radius: 1.5em;
     background-color: rgb(195, 134, 252);
     border-color: rgb(167, 84, 244);
 }
