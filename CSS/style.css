@@ -26,9 +26,9 @@ p, p ul li{
 
 .rtas{
     width: 700px;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
     border-radius: 1.5em;
     background-color: rgb(195, 134, 252);
     border-color: rgb(167, 84, 244);
