@@ -20,7 +20,7 @@ p, p ul li{
 
 .rtas{
     display: grid;
-    grid-template-columns: repeat (2, 1fr) ;
+    grid-template-columns: 1fr 1fr ;
     gap: 20px;
     border-radius: 2em;
     background-color: rgb(195, 134, 252);
