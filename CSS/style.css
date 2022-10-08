@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(226, 226, 226);
+    
 }
 h1, h2{
     font-size: 20;
@@ -9,22 +9,18 @@ p, p ul li{
     font-family: 'Times New Roman', Times, serif;
 }
 .body{
+    background-color: rgb(226, 226, 226);
     display: grid;
     grid-template-rows: auto;
 }
-.respuestas{
-    display: grid;
-    grid-template-columns: repeat (2, 1fr) ;
-    gap: 20px;
-    border-radius: 2em;
-}
 
-.rtas li{
+
+.rtas{
     display: grid;
     grid-template-columns: repeat (2, 1fr) ;
     gap: 20px;
     border-radius: 2em;
-    background-color: rgb(229, 206, 250);
+    background-color: rgb(195, 134, 252);
     border-color: rgb(167, 84, 244);
 }
 
