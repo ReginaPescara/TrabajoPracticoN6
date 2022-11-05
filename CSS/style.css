@@ -1,4 +1,4 @@
-h1, h2{
+h1, h2{ //Selectores por etiqueta para h1, h2
     font-size: 20;
     text-align: center;
     text-shadow: rgba(255, 255, 0, 0.36) 5px 2px 4px;
